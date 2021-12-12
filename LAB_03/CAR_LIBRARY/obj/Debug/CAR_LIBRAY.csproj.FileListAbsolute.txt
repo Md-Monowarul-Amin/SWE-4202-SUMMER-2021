@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\bin\Debug\CAR RENTAL SYSTEM.dll
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\bin\Debug\CAR RENTAL SYSTEM.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\obj\Debug\CAR_LIBRAY.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\obj\Debug\CAR_LIBRAY.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\obj\Debug\CAR RENTAL SYSTEM.dll
+C:\Users\USER\Desktop\LAB_OOC_1\CAR RENTAL SYSTEM\obj\Debug\CAR RENTAL SYSTEM.pdb

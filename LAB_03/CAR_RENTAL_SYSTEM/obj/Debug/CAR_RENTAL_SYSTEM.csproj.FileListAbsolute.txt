@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\bin\Debug\CAR_RENTAL_SYSTEM.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\bin\Debug\CAR_RENTAL_SYSTEM.exe
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\bin\Debug\CAR_RENTAL_SYSTEM.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.exe
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\bin\Debug\CAR RENTAL SYSTEM.dll
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\bin\Debug\CAR RENTAL SYSTEM.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\CAR_RENTAL_SYSTEM\obj\Debug\CAR_RENTAL_SYSTEM.csproj.CopyComplete
