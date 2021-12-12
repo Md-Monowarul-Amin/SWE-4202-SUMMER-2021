@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\bin\Debug\ROOM.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\bin\Debug\ROOM.exe
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\bin\Debug\ROOM.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\bin\Debug\ROOM_CLASS_LIBRARY.dll
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\bin\Debug\ROOM_CLASS_LIBRARY.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.csproj.CopyComplete
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.exe
+C:\Users\USER\Desktop\LAB_OOC_1\ROOM\obj\Debug\ROOM.pdb
