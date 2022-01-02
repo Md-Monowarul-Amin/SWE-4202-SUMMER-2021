@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\bin\Debug\LMS System.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\bin\Debug\LMS System.exe
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\bin\Debug\LMS System.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\bin\Debug\LMS LIBRARY.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\bin\Debug\LMS LIBRARY.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS_System.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS_System.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.csproj.CopyComplete
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.exe
+C:\Users\USER\Desktop\LAB_OOC_1\LMS System\obj\Debug\LMS System.pdb

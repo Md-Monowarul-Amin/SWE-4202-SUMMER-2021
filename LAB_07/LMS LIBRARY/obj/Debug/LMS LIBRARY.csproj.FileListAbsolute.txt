@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\bin\Debug\LMS LIBRARY.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\bin\Debug\LMS LIBRARY.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\obj\Debug\LMS LIBRARY.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\obj\Debug\LMS LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\obj\Debug\LMS LIBRARY.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LMS LIBRARY\obj\Debug\LMS LIBRARY.pdb
