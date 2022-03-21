@@ -1,0 +1,6 @@
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\bin\Debug\Task_2_Educational_Institution_Library.dll
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\bin\Debug\Task_2_Educational_Institution_Library.pdb
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\obj\Debug\Task_2_Educational_Institution_Library.csproj.AssemblyReference.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\obj\Debug\Task_2_Educational_Institution_Library.csproj.CoreCompileInputs.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\obj\Debug\Task_2_Educational_Institution_Library.dll
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution_Library\obj\Debug\Task_2_Educational_Institution_Library.pdb

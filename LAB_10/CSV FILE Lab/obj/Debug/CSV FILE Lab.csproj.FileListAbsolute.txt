@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\bin\Debug\CSV FILE Lab.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\bin\Debug\CSV FILE Lab.exe
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\bin\Debug\CSV FILE Lab.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV_FILE_Lab.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV_FILE_Lab.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.exe
+C:\Users\USER\Desktop\LAB_OOC_1\CSV FILE Lab\obj\Debug\CSV FILE Lab.pdb

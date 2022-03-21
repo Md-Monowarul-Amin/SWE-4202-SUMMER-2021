@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\bin\Debug\Tic Toc Toe.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\bin\Debug\Tic Toc Toe.exe
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\bin\Debug\Tic Toc Toe.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic_Toc_Toe.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic_Toc_Toe.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.exe
+C:\Users\USER\Desktop\LAB_OOC_1\Tic Toc Toe\obj\Debug\Tic Toc Toe.pdb

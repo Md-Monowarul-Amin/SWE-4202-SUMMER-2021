@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\bin\Debug\Lab_1_Assignment.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\bin\Debug\Lab_1_Assignment.exe
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\bin\Debug\Lab_1_Assignment.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.exe
+C:\Users\USER\Desktop\LAB_OOC_1\Lab_1_Assignment\obj\Debug\Lab_1_Assignment.pdb

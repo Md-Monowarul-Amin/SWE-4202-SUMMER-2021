@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0e5753f-947f-45f3-ad5b-d0a328e03c09": {
+      "ProjectGuid": "d0e5753f-947f-45f3-ad5b-d0a328e03c09",
+      "DisplayName": "Employee Library",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

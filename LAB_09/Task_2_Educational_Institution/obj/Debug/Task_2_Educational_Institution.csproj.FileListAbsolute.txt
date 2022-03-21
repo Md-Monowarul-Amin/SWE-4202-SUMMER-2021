@@ -1,0 +1,14 @@
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\bin\Debug\Task_2_Educational_Institution.exe.config
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\bin\Debug\Task_2_Educational_Institution.exe
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\bin\Debug\Task_2_Educational_Institution.pdb
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\bin\Debug\Task_2_Educational_Institution_Library.dll
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\bin\Debug\Task_2_Educational_Institution_Library.pdb
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.csproj.AssemblyReference.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.csproj.SuggestedBindingRedirects.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.Form1.resources
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.Properties.Resources.resources
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.csproj.GenerateResource.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.csproj.CoreCompileInputs.cache
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.csproj.CopyComplete
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.exe
+E:\.NET PROJECTS\BookListRazor\Task_2_Educational_Institution\obj\Debug\Task_2_Educational_Institution.pdb

@@ -1,0 +1,6 @@
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\bin\Debug\Task_1_Library_Car.dll
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\bin\Debug\Task_1_Library_Car.pdb
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\obj\Debug\Task_1_Library_Car.csproj.AssemblyReference.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\obj\Debug\Task_1_Library_Car.csproj.CoreCompileInputs.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\obj\Debug\Task_1_Library_Car.dll
+E:\.NET PROJECTS\BookListRazor\Task_1_Library_Car\obj\Debug\Task_1_Library_Car.pdb

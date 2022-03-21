@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\bin\Debug\Employee Library.dll
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\bin\Debug\Employee Library.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\obj\Debug\Employee Library.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\obj\Debug\Employee Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\obj\Debug\Employee Library.dll
+C:\Users\USER\Desktop\LAB_OOC_1\Employee Library\obj\Debug\Employee Library.pdb

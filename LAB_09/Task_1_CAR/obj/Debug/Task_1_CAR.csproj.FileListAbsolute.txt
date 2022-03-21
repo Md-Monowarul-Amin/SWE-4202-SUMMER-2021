@@ -1,0 +1,14 @@
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\bin\Debug\Task_1_CAR.exe.config
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\bin\Debug\Task_1_CAR.exe
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\bin\Debug\Task_1_CAR.pdb
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\bin\Debug\Task_1_Library_Car.dll
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\bin\Debug\Task_1_Library_Car.pdb
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.csproj.AssemblyReference.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.csproj.SuggestedBindingRedirects.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.Form1.resources
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.Properties.Resources.resources
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.csproj.GenerateResource.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.csproj.CoreCompileInputs.cache
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.csproj.CopyComplete
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.exe
+E:\.NET PROJECTS\BookListRazor\Task_1_CAR\obj\Debug\Task_1_CAR.pdb
