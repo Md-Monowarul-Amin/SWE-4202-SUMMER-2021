@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\bin\Debug\LabFinal.exe.config
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\bin\Debug\LabFinal.exe
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\bin\Debug\LabFinal.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\bin\Debug\LabFinalLibrary.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\bin\Debug\LabFinalLibrary.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.Form1.resources
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.csproj.CopyComplete
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.exe
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinal\obj\Debug\LabFinal.pdb

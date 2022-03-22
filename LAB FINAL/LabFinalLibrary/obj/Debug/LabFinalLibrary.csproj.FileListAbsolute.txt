@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\bin\Debug\LabFinalLibrary.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\bin\Debug\LabFinalLibrary.pdb
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\obj\Debug\LabFinalLibrary.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\obj\Debug\LabFinalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\obj\Debug\LabFinalLibrary.dll
+C:\Users\USER\Desktop\LAB_OOC_1\LabFinalLibrary\obj\Debug\LabFinalLibrary.pdb
